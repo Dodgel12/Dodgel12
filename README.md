@@ -21,4 +21,4 @@ client work, and products where the source is part of the security model.
 Available for part-time work: web & mobile development, API integrations, and
 ongoing maintenance for teams that need a developer without hiring one.
 
-📍 Italy · 🌐 [dodgel.info](https://dodgel.info)
+📍 Italy · 🌐 [dodgel.info](http://dodgel.info)
